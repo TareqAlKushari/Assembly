@@ -47,7 +47,7 @@ Feel free to open issues or submit pull requests to add new examples, improve do
 
 ## License
 
-[No license specified. If you intend to share or reuse this code, consider adding a LICENSE file.]
+[No license specified.]
 
 ## Contact
 
